@@ -1,1 +1,2 @@
 test message 4.
+line 2 in test file 4.
